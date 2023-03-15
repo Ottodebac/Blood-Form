@@ -63,9 +63,9 @@ input, textarea {
 }
 
 .radio {
-width: 40%;
-margin-left: 0;
-justify-content: left;
+  width: 100%;
+  margin-left: 0;
+  justify-content: left;
 }
 
 textarea {
